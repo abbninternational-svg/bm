@@ -1,0 +1,231 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "..\\251028 1355_ سورس اپ\\MellatMobileBank_Android_1.3.6.apk"
+  ],
+  "treeExpansionsV2": [
+    "c:com.journeyapps.barcodescanner.Decoder"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.bignerdranch.expandablerecyclerview.BuildConfig",
+      "subPath": "java",
+      "caret": 254,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.bignerdranch.expandablerecyclerview.ChildViewHolder",
+      "subPath": "java",
+      "caret": 237,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.bignerdranch.expandablerecyclerview.ExpandableRecyclerAdapter",
+      "subPath": "java",
+      "caret": 615,
+      "view": {
+        "x": 0,
+        "y": 960
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.bignerdranch.expandablerecyclerview.ParentViewHolder",
+      "subPath": "java",
+      "caret": 239,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.bignerdranch.expandablerecyclerview.R",
+      "subPath": "java",
+      "caret": 269,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "cn.pedant.SweetAlert.SuccessTickView",
+      "subPath": "java",
+      "caret": 417,
+      "view": {
+        "x": 0,
+        "y": 480
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "javax.inject.Inject",
+      "subPath": "java",
+      "caret": 408,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "javax.inject.Named",
+      "subPath": "java",
+      "caret": 266,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "net.behsazan.vision.android.arsdk.controller.ArPermissionsDelegate",
+      "subPath": "java",
+      "caret": 1559,
+      "view": {
+        "x": 0,
+        "y": 96
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "net.behsazan.vision.android.arsdk.data.GpsTracker",
+      "subPath": "java",
+      "caret": 4757,
+      "view": {
+        "x": 0,
+        "y": 1616
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "net.behsazan.vision.android.arsdk.data.Content",
+      "subPath": "java",
+      "caret": 2285,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "resource",
+      "tabPath": "a-",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "resource",
+      "tabPath": "AndroidManifest.xml",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 1728
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.journeyapps.barcodescanner.Decoder",
+      "subPath": "java",
+      "caret": 539,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "C:\\Users\\TSYSTEM\\AppData\\Local\\skylot\\jadx\\cache\\projects\\MellatMobileBank_Android_1.3.6-9e563259cf983d0a722ebe8299eaaffd",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
